@@ -6,7 +6,7 @@
  **/
 
 // Declaring The Package :
-package trumpgame_nathaniel_mcparland_csc1012;
+package trumpgame;
 
 // Importing The Java API Packages:
 import javax.swing.ImageIcon;
