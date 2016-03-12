@@ -1,2 +1,2 @@
 # mk-java-swing-game
-mortal kombat themed java swing game
+Developed in Eclipse using Java & Java Swing for GUI.
